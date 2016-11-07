@@ -6,7 +6,9 @@ permalink: /sviluppo-ruby-on-rails/
 link: Sviluppo Rails
 #meta-description: Sono specializzato nello sviluppo di siti web in Ruby on Rails
 meta-keywords: "programmatore web, sviluppo ruby, sviluppatore web, sviluppo web, ruby, ruby on rails, ror, html5, css3, sass, javascript"
-redirect_from: "/it/sviluppo-ruby-on-rails"
+redirect_from: 
+  - "/it/sviluppo-ruby-on-rails"
+  - "/it/sviluppo-ruby-on-rails/"
 ---
 
 <main class="jumbotron" id="intro">
