@@ -1,0 +1,30 @@
+<head>
+  <meta charset="utf-8">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.messages.locales[page.locale].index_title }}{% endif %}</title>
+
+  {% if page.meta-description %}
+    <meta name="description" content="{{ page.meta-description }}">
+  {% endif %}
+
+  <meta name="keywords" content="{% if page.meta-keywords %}{{ page.meta-keywords }}{% else %}{{ site.data.messages.locales[page.locale].index_meta_keywords }}{% endif %}" />
+  <meta name="author" content="Palazzini Francesco">
+
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <script type="text/javascript">
+      window.cookieconsent_options = {"message":"{{ site.data.messages.locales[page.locale].cookie_law_message }}", "dismiss":"{{ site.data.messages.locales[page.locale].cookie_law_accept }}","theme":"dark-bottom"};
+  </script>
+
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+</head>

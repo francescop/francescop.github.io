@@ -1,0 +1,154 @@
+locales:
+  it:
+    index_title: 'Francesco Palazzini - Sistemista Linux - Sviluppatore Ruby'
+    index_meta_keywords: 'sistemista linux, sviluppatore software, consulente informatico'
+    knowledges: 'Conoscenze'
+    portfolio: 'Portfolio'
+    contact: 'Contatti'
+    contacts: 'Contatti'
+    back_to_top: "Torna all'inizio" 
+    footer_sign: 'Francesco Palazzini, consulente informatico'
+    phone: 'Telefono'
+    mail: 'Email'
+    vat: 'P.IVA'
+    lead: 'Sistemista Linux e sviluppatore software.'
+    contact_me_btn: 'Contattami'
+    who_i_am: 'Chi sono'
+    who_i_am_p: 'Sono un consulente informatico professionista nonch&egrave; uno sviluppatore ruby e sistemista unix/linux. Vivo in provincia di Verona, <b>Veneto</b>.'
+    what_i_do: 'Cosa faccio'
+    what_i_do_p: 'Implemento servizi, configuro sistemi e reti, installo server, gestisco sistemi VoIP, supporto gli utenti, scrivo documentazione, gestisco progetti e sviluppo applicazioni su misura per aziende.'
+    knowledges_p: "Come consulente, mi tengo sempre aggiornato sulle ultime tecnologie. Uso (e <i class='fa fa-heart'></i>):"
+    os: 'Sistemi Operativi'
+    web_and_programming: 'Programmazione <span>&amp;</span> Web'
+    knowledges_end: "...e qualcos'altro che non ricordo."
+    send_me_an_email: 'Inviami una email!'
+    website: 'Sito Web '
+    portfolio_p1: "Questi sono i lavori che possono essere visti pubblicamente.<br /> <a href='#contact'>Contattami</a> per altre informazioni."
+    portfolio_p2: "Ho un account
+              <a href='https://github.com/francescop' target='_blank'><i class='fa fa-github'></i> GitHub</a>, nel caso volessi vedere come è stato fatto qualche progetto.
+              <br />
+              Ho anche sviluppato un software per la gestione delle password per Ubuntu 10.04, ovviamente rilasciato con licenza open source.
+              E' scritto con GTK 2 e Python 2.6, per informazioni: <a href='https://launchpad.net/passwordmanager'>Password Manager project's launchpad page</a>. <br />
+              Il codice sorgente e i pacchetti per l'installazione possono essere scaricati da <a href='https://launchpad.net/~palazzini-francesco/+archive/ppa'>qui</a>."
+    newlife_p: "Sito Web e applicazione personalizzata per una delle piu' grandi aziende di restaurazioni in Brisbane, Australia"
+    newlife_lis: "<li><i class='fa fa-check'></i>Tema personalizzato Wordpress</li>
+                <li><i class='fa fa-check'></i>Applicazione - privata - per la gestione dei lavori e dei clienti</li>
+                <li><i class='fa fa-check'></i>Compatibile con smartphone e tablet</li>
+                <li><i class='fa fa-check'></i>Gestione server</li>"
+    newharbour_p: 'Sito web per una palestra a Sydney, Australia'
+    newharbour_lis: "<li><i class='fa fa-check'></i>Applicazine Web personalizzata, dove gli utenti possono tenere traccia dei progressi di allenamento</li>
+                <li><i class='fa fa-check'></i>Compatibile con smartphone e tablet</li>
+                <li><i class='fa fa-check'></i>Hosting</li>"
+    invoicer_p: "Progetto Open source per la gestione di preventivi e fatture"
+    invoicer_lis: "<li><i class='fa fa-check'></i>Applicazione Web personalizzata dove gli utenti possono gestire preventivi e fatture</li>
+                <li><i class='fa fa-check'></i>Compatibile con smartphone e tablet</li>
+                <li><i class='fa fa-check'></i>Hosting</li>
+                <li><i class='fa fa-check'></i>Open source</li>"
+    upclimbing_p: "Portale di arrampicata sportiva"
+    upclimbing_lis: "<li><i class='fa fa-check'></i>Gestione applicazione web</li>
+                <li><i class='fa fa-check'></i>Gestione Hosting</li>"
+    laquartasola_p: "Nel 2010, questo e' stato il mio primo sito web"
+    laquartasola_lis: "<li><i class='fa fa-check'></i>Html + PHP</li>
+                <li><i class='fa fa-check'></i>Gestione Hosting</li>"
+    quicibo_p: Ecommerce prodotti alimentari
+    quicibo_lis: "<li><i class='fa fa-check'></i>Sviluppo applicazione web</li>
+                <li><i class='fa fa-check'></i>Gestione Hosting</li>"
+    techride_p: Software gestione interventi tecnici
+    techride_lis: "<li><i class='fa fa-check'></i>Sviluppo applicazione web</li>
+                <li><i class='fa fa-check'></i>Sviluppo applicazione Android</li>
+                <li><i class='fa fa-check'></i>Gestione Hosting</li>"
+    missing_fields: 'Campi mancanti, mail non inviata'
+    mail_error: "Errore, prova piu' tardi oppure invia una mail a <a href='mailto:palazzini.francesco@gmail.com'>palazzini.francesco@gmail.com</a>"
+    mail_success: 'Email inviata, grazie!'
+    cookie_law_message: "Scusa il disturbo, &egrave; la legge."
+    cookie_law_accept: Accetto i cookie
+
+    ruby_lead: Programmatore software specializzato in Ruby on Rails
+    ruby_info: "<b>Stai cercando un programmatore Ruby on Rails?</b> <br />
+                Lavoro con Ruby on Rails dal 2010, prima del suo boom, e sono uno sviluppatore full stack. 
+                <br />
+                Oltre che con Ruby on Rails, sviluppo con HTML5 / Javascript, sempre seguendo la metodologia 'Agile'. <br />
+                <br />
+                <b>Preferisco lavorare su progetti complessi.</b>
+                <br />
+                Il mio ufficio &egrave; a Verona, da dove lavoro da remoto. Lavoro onsite su richiesta (solamente Veneto/Lombardia).
+                <a href=\"/#contact\">Contattami</a> per parlare del tuo progetto!
+                <br />
+                <br />
+                <i>francamente, il web si sta evolvendo e per i nuovi progetti preferisco lavorare su Elixir / Erlang &amp; <a href=\"http://www.phoenixframework.org/\">Phoenix</a></i>"
+    ruby_progettazione: "Progettazione"
+    ruby_progettazione_p1: "Vuoi aggiornare la tua applicazione o crearne una nuova? Posso aiutarti nella creazione o migrazione ad una nuova versione di Ruby On Rails. Avendo pi&ugrave; di "
+    ruby_progettazione_p2: " anni di esperienza nello sviluppo con Ruby On Rails, far&ograve; una attenta analisi della tua applicazione e ti aiuter&ograve; nell'aggiornamento e nel passaggio dei dati."
+    ruby_gestione_server: "Gestione Server"
+    ruby_gestione_server_p1: "Gestisco server Linux da "
+    ruby_gestione_server_p2: " anni. Che tu voglia usare Amazon AWS oppure dei server di tua proprieta, posso configurarli e tenerli aggiornarti per garantirti la massima affidabilit&agrave; della tua applicazione."
+    ruby_debug: "Debug"
+    ruby_debug_p: "Se non riesci a capire perch&egrave; la tua app &egrave; lenta o continua a bloccarsi, far&ograve; un audit tecnico e cercher&ograve; di sistemare la tua applicazione nel minor tempo possibile."
+    ruby_formazione: "Formazione"
+    ruby_formazione_p: "Con anni di esperienza nell'organizzare e gestire piccoli gruppi di programmatori, user&ograve; la mia esperienza per formare i tuoi sviluppatori sullo sviluppo su Ruby On Rails."
+
+
+  en:
+    index_title: 'Francesco Palazzini - Linux System Administrator - Ruby Developer'
+    index_meta_description: 'Linux system administrator and Ruby on Rails web developer'
+    index_meta_keywords: 'linux system administrator, ruby web developer, it consultant, web development'
+    knowledges: 'Knowledges'
+    portfolio: 'Portfolio'
+    contact: 'Contact'
+    contacts: 'Contacts'
+    back_to_top: 'Back to top '
+    footer_sign: 'Francesco Palazzini, linux it consultant'
+    phone: 'Phone'
+    mail: 'Mail'
+    vat: 'EU VAT'
+    lead: 'I am a {Linux} System Administrator and Software Developer.'
+    contact_me_btn: 'Contact Me'
+    who_i_am: 'Who i am'
+    who_i_am_p: 'I am a freelancer Unix/Linux administrator and Ruby Developer. I to provide IT solutions and build custom Software.'
+    what_i_do: 'What i do'
+    what_i_do_p: 'Implement services, hardening systems and networks, install servers and networks, support users, write documentation, manage projects and develop web applications with Ruby.'
+    knowledges_p: "As a Developer, i'm always learning something new. By the way, i use (and <i class='fa fa-heart'></i>):"
+    os: 'Operating Systems'
+    web_and_programming: 'Web <span>&amp;</span> Programming'
+    knowledges_end: "...and maybe something else that i don't remember now."
+    send_me_an_email: 'Send me an email!'
+    website: 'Website '
+    portfolio_p1: "These are just my major public applications.<br /> Feel free to <a href='#contact'>ask</a> if you want to see more."
+    portfolio_p2: "I have a 
+              <a href='https://github.com/francescop' target='_blank'><i class='fa fa-github'></i> GitHub</a> profile, head there if you want to see some code.
+              <br />
+              I have also developed (just for learning purpose) a little GUI for password management that works with Ubuntu 10.04. 
+              It's written in GTK 2 and Python 2.6, you can find infos in the <a href='https://launchpad.net/passwordmanager'>Password Manager project's launchpad page</a>. 
+              The source code and the .deb package can be found <a href='https://launchpad.net/~palazzini-francesco/+archive/ppa'>here</a>.<br />"
+    newlife_p: 'Website and custom application built for one of the biggest restorations company in Brisbane, Australia'
+    newlife_lis: "<li><i class='fa fa-check' ></i>Custom Wordpress theme</li>
+                <li><i class='fa fa-check' ></i>Custom - private - Web Application</li>
+                <li><i class='fa fa-check' ></i>Responsive</li>
+                <li><i class='fa fa-check' ></i>Server management</li>"
+    newharbour_p: 'Website built for a gym based in Sydney, Australia'
+    newharbour_lis: "<li><i class='fa fa-check'></i>Custom Web Application, where users can log in to track and update their fitness progress</li>
+                <li><i class='fa fa-check'></i>Responsive</li>
+                <li><i class='fa fa-check'></i>Hosting</li>"
+    invoicer_p: "Open source side project for managing quotes and invoices"
+    invoicer_lis: "<li><i class='fa fa-check'></i>Custom Web Application, where users can create quotes and invoices</li>
+                <li><i class='fa fa-check'></i>Responsive</li>
+                <li><i class='fa fa-check'></i>Hosting</li>
+                <li><i class='fa fa-check'></i>Open source</li>"
+    upclimbing_p: "Sport portal for climbers"
+    upclimbing_lis: "<li><i class='fa fa-check'></i>Web Application maintenance</li>
+                <li><i class='fa fa-check'></i>Hosting management</li>"
+    laquartasola_p: "Back in 2010, this is my first website"
+    laquartasola_lis: "<li><i class='fa fa-check'></i>Html + PHP website</li>
+                <li><i class='fa fa-check'></i>Hosting management</li>"
+    quicibo_p: Ecommerce platform
+    quicibo_lis: "<li><i class='fa fa-check'></i>Web Application develoment</li>
+                  <li><i class='fa fa-check'></i>Hosting management</li>"
+    techride_p: Software gestione interventi tecnici
+    techride_lis: "<li><i class='fa fa-check'></i>Web Application develoment/li>
+                  <li><i class='fa fa-check'></i>Android application develoment</li>
+                  <li><i class='fa fa-check'></i>Hosting management</li>"
+    missing_fields: 'Field missing, mail not sent'
+    mail_error: "Error, please try again later or contact me at <a href='mailto:palazzini.francesco@gmail.com'>palazzini.francesco@gmail.com</a>"
+    mail_success: 'Mail sent, thank you!'
+    cookie_law_message: "Sorry to bother you, it's the law."
+    cookie_law_accept: Accept cookies

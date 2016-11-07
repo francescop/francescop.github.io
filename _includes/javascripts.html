@@ -1,0 +1,39 @@
+<script   src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-37635022-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+    $("form[data-async]").submit(function(event) {
+        $(this).hide('slow');
+        $('.fa-spinner').show('slow');
+          $.ajax({
+                 type: "POST",
+                 url: $(this).attr('action'),
+                 data: $(this).serialize(), // serializes the form's elements.
+                 success: function(data){
+                      $('#form_result').addClass('alert-success');
+                      $('#form_result').find('.message').html(data);
+                      $('.fa-spinner').hide('slow');
+                      $('#form_result').show('slow');
+                 },
+                 error: function(data){
+                    $('#form_result').addClass('alert-warning');
+                      $('#form_result').find('.message').html(data);
+                      $('.fa-spinner').hide('slow');
+                      $('#form_result').show('slow');
+                 }
+               });
+          $('.fa-spinner').hide('slow');
+          $('#form_result').show('slow');
+          event.preventDefault();
+      });
+</script>
