@@ -87,6 +87,18 @@ locales:
     ruby_formazione: "Formazione"
     ruby_formazione_p: "Con anni di esperienza nell'organizzare e gestire piccoli gruppi di programmatori, user&ograve; la mia esperienza per formare i tuoi sviluppatori sullo sviluppo su Ruby On Rails."
 
+    linux_lead: Sistemista Linux specializzato in sicurezza informatica
+    linux_info: "<b>Stai cercando un sistemista Linux?</b> <br />
+                Sviluppo e lavoro con Linux dal 2010 e con FreeBSD dal 2011, sono specializzato in sistemi in alta affidabilit&agrave; e in sicurezza informatica.
+                <br />
+                <br />
+                Il mio ufficio &egrave; a Verona, da dove lavoro da remoto. 
+                <br />
+                Lavoro onsite su richiesta (solamente Veneto/Lombardia).
+                <br />
+                <a href=\"/#contact\">Contattami</a> per parlare del tuo progetto!
+                <br />"
+
 
   en:
     index_title: 'Francesco Palazzini - Linux System Administrator - Ruby Developer'
