@@ -3,7 +3,7 @@ locale: "it"
 layout: default
 title: Sistemista Linux Freelance
 permalink: /assistenza-sistemista-linux-freelance/
-link: Assitenza Linux
+link: Assistenza Linux
 meta-keywords: "assistenza linux, sistemista linux, sistemista unix, supporto linux, sviluppo linux, linux"
 ---
 
