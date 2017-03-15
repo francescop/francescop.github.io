@@ -78,3 +78,25 @@ footer {
 .big-font{font-size:17px;}
 .margin-bottom{margin-bottom: 20px;}
 .margin-top-15{margin-top: 15px;}
+
+.dropdown-menu{
+  a{
+    text-shadow: none;
+  }
+}
+
+.super_padding{
+  padding: 10rem;
+}
+
+.service-page {
+  .big-font{
+    font-size: 2.5rem;
+    line-height: 4rem;
+  }
+
+  .lead{
+    font-size: 3rem;
+    padding-top: 2rem;
+  }
+}

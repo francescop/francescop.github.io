@@ -1,6 +1,7 @@
 ---
 locale: "it"
 layout: default
+published: false
 title: Programmatore Ruby On Rails
 permalink: /sviluppo-ruby-on-rails/
 link: Sviluppo Rails

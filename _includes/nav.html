@@ -20,9 +20,15 @@
         <li><a href="/#knowledges">{{ site.data.messages.locales[page.locale].knowledges }}</a></li>
 
         {% if page.locale == "it" %} 
-          {% for page in site.pages %} {% if page.title %}
-          <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.link }}</a></li>
-          {% endif %} {% endfor %}
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Servizi
+              <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              {% for page in site.pages %} {% if page.title %}
+              <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.link }}</a></li>
+              {% endif %} {% endfor %}
+            </ul>
+          </li>
         {% endif %}
 
         <li><a href="/#portfolio">{{ site.data.messages.locales[page.locale].portfolio }}</a></li>
